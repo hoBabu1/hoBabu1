@@ -1,6 +1,6 @@
 ### NAMASTE 
 
-🌱 I’m currently learning Blockchain Technology!<br><br>👯 I’m looking to collaborate on cloud<br><br>💬 Ask me about Anything<br><br> 😄 Pronouns: he/him<br><br>⚡ Fun fact:  Aman Kumar aka hoBabu
+🌱 I’m currently learning Blockchain Technology!<br><br>👯 I’m looking to collaborate on EVM chain<br><br>💬 Ask me about Anything<br><br> 😄 Pronouns: he/him<br><br>⚡ Fun fact:  Aman Kumar aka hoBabu
 
 
 ## 🌐 Socials:
