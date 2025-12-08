@@ -287,7 +287,7 @@ const achievements = {
 <sub><b>Foundry</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://images.seeklogo.com/logo-png/42/1/hardhat-logo-png_seeklogo-426726.png"/><br>
+<img src="https://imgs.search.brave.com/YYN2MD-KROWljh9QizMC6yOywMRDbOywDYQO3jfAHa8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c29sb2Rldi5jb20v/ZmlsZS8xMzQ2NmUy/MS1kZDJjLTExZWMt/YjlhZC0wZWFlZjM3/NTlmNWYvSGFyZGhh/dC1Mb2dvLUljb24u/cG5n"/><br>
 <sub><b>Hardhat</b></sub>
 </td>
 <td align="center" width="20%">
