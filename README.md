@@ -120,7 +120,7 @@ const achievements = {
 ### 📝 Recent Articles
 
 | Title | Platform | Topics | Read |
-|:------|:--------:|:------:|
+|:------|:--------:|:------:|:------:|
 | **How EVM Works** | Dev.to | EVM, Blockchain Internals | [Link](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7) |
 | **My First Hackathon** | Medium | Experience, Learning | [Link](https://medium.com/@dhanyosmiblog/my-first-hackathon-eb52a5e6a2f6) |
 | **You Can't Trade Without Knowing This** | Medium | Trading, Technical Analysis | [Link](https://medium.com/@dhanyosmiblog/you-cant-trade-without-knowing-this-fab251d97983) |
