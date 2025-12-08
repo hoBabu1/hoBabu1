@@ -119,12 +119,12 @@ const achievements = {
 
 ### 📝 Recent Articles
 
-| Title | Platform | Topics |
+| Title | Platform | Topics | Read |
 |:------|:--------:|:------:|
-| **How EVM Works** | Dev.to | EVM, Blockchain Internals |
-| **My First Hackathon** | Medium | Experience, Learning |
-| **You Can't Trade Without Knowing This** | Medium | Trading, Technical Analysis |
-| **Chainlink CCIP Implementation** | GitHub | Cross-Chain, Chainlink |
+| **How EVM Works** | Dev.to | EVM, Blockchain Internals | [Link](https://dev.to/dhanyosmi/understanding-evmethereum-virtual-machine-2dh7) |
+| **My First Hackathon** | Medium | Experience, Learning | [Link](https://medium.com/@dhanyosmiblog/my-first-hackathon-eb52a5e6a2f6) |
+| **You Can't Trade Without Knowing This** | Medium | Trading, Technical Analysis | [Link](https://medium.com/@dhanyosmiblog/you-cant-trade-without-knowing-this-fab251d97983) |
+| **Chainlink CCIP Implementation** | GitHub | Cross-Chain, Chainlink | [Link](https://github.com/hoBabu1/Chainlink-CCIP-Guide-Lock-Unlock) |
 
 </div>
 
@@ -328,11 +328,9 @@ const achievements = {
 
 | 🏆 Achievement | 🗓️ Date | 📜 Proof |
 |:--------------|:-------:|:--------:|
-| 🥇 **1st Prize** - Ideation Challenge (Dept. of Industries) | 2024 | [Certificate](link) |
-| 🎓 **Smart Contract Security** - Cyfrin Updraft | 2024 | [In Progress](#) |
-| 📜 **Blockchain & Its Application** - NPTEL | May 2025 | [Certificate](link) |
-| 🏆 **Full-Stack dApp** - Solo Hackathon Participant | 2024 | [Project](#) |
-| 🎯 **B.TECH CSE** - GEC Khagaria | 2022-26 | **CGPA: 8.64/10** |
+| 🥇 **1st Prize** - Ideation Challenge (Dept. of Industries) | 2023 | [Certificate](https://drive.google.com/file/d/1dXHEBIKiHtzjP3xjPYjG98BFrgFez7WH/view?usp=drivesdk) |
+| 📜 **Blockchain & Its Application** - NPTEL | May 2025 | [Certificate](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Farchive.nptel.ac.in%2Fcontent%2Fnoc%2FNOC25%2FSEM1%2FEcertificates%2F106%2Fnoc25-cs08%2FCourse%2FNPTEL25CS08S55440166804210152.pdf&urlhash=dRY4&isSdui=true) |
+| 🏆 **Full-Stack dApp** - Solo Hackathon Participant | 2025 | [Project](https://ai-on-chain-invoice.vercel.app/) |
 
 </div>
 
