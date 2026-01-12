@@ -22,92 +22,44 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
-
-contract Dhanyosmi {
-    address public constant DEVELOPER = 0xDhanyosmi;
-    
-    struct Profile {
-        string role;
-        string previousCompany;
-        string[] expertise;
-        uint256 chainsDeployed;
-        bool availableForWork;
-    }
-    
-    Profile public me = Profile({
-        role: "Smart Contract Developer & Security Researcher",
-        previousCompany: "Digichain (Bima Labs - DeFi Protocol)",
-        expertise: ["UUPS Upgradeable Contracts", "DeFi Protocols", 
-                   "Cross-Chain Integration", "Security Auditing",
-                   "Crypto Trading", "Technical Writing"],
-        chainsDeployed: 20+,
-        availableForWork: true
-    });
-    
-    function getCurrentFocus() public pure returns (string memory) {
-        return "Security research, crypto trading & building secure smart contracts";
-    }
-    
-    function getAchievements() public pure returns (string[] memory) {
-        return [
-            "95%+ Code Coverage on Production Contracts",
-            "Deployed on 20+ Blockchain Networks",
-            "Won Ideation Challenge 2024",
-            "Active Crypto Trader & Market Analyst",
-            "Published Technical Blogs on Web3 Security"
-        ];
-    }
-}
-```
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Smart Contract Developer @ Digichain (Bima Labs - DeFi Protocol)</b> <i>(July 2024 - Aug 2025)</i></summary>
+<summary><b>Smart Contract Developer @ Digichain (Bima Labs - DeFi Protocol)</b> <i>(July 2024 - Aug 2025)</i></summary>
 <br>
 
-```typescript
-const achievements = {
-  architecture: [
-    "🔄 Implemented UUPS upgradeable contracts with Succinct Protocol for ZKP verification",
-    "🌉 Built LayerZero V2 cross-chain messaging scripts for debugging & testing",
-    "🔗 Integrated Chainlink CCIP for secure cross-chain USBD transfers"
-  ],
-  quality: [
-    "✅ Achieved >95% code coverage with comprehensive Foundry testing",
-    "🔍 Wrote unit & fuzz tests raising coverage from baseline to 95%+",
-    "🤖 Optimized Hardhat deployment scripts with automated verification"
-  ],
-  deployment: [
-    "🌍 Deployed & managed contracts on 20+ chains",
-    "⚡ Debugged oracle and price-feed integrations",
-    "🛠️ Managed troves and cross-chain operations"
-  ]
-};
-```
+**Architecture**
+- Implemented UUPS upgradeable contracts with Succinct Protocol for ZKP verification
+- Built LayerZero V2 cross-chain messaging scripts for debugging and testing
+- Integrated Chainlink CCIP for secure cross-chain USBD transfers
 
-**Key Technologies:** Solidity • Foundry • Hardhat • Chainlink CCIP • LayerZero • UUPS Proxy
+**Quality & Testing**
+- Achieved over 95% code coverage with comprehensive Foundry testing
+- Wrote unit and fuzz tests raising coverage from baseline to 95%+
+- Optimized Hardhat deployment scripts with automated verification
 
-**Impact:** Enabled secure cross-chain DeFi operations with production-grade smart contracts
+**Deployment & Operations**
+- Deployed and managed contracts on 20+ chains
+- Debugged oracle and price-feed integrations
+- Managed troves and cross-chain operations
+
+*Stack: Solidity, Foundry, Hardhat, Chainlink CCIP, LayerZero, UUPS Proxy*
 
 </details>
 
-<details>
-<summary><b>📊 Chart Analyst & Moderator @ One World Nation</b> <i>(Oct 2022 - Aug 2023)</i></summary>
+<details open>
+<summary><b>Chart Analyst & Moderator @ One World Nation</b> <i>(Oct 2022 - Aug 2023)</i></summary>
 <br>
 
-- 📈 Conducted live crypto chart analysis for **5000+ community members**
-- 💹 Performed technical analysis and provided trading insights
-- 🚀 Achieved **33% increase** in community engagement
-- ⚡ Improved response time by **25%** through efficient moderation
-- 💡 Educated community on market trends and trading strategies
+- Conducted live crypto chart analysis for **5000+ community members**
+- Performed technical analysis and provided trading insights
+- Achieved **33% increase** in community engagement
+- Improved response time by **25%** through efficient moderation
+- Educated community on market trends and trading strategies
 
-**Skills:** Technical Analysis • Community Management • Crypto Trading • Market Research
+*Skills: Technical Analysis, Community Management, Crypto Trading, Market Research*
 
 </details>
 
